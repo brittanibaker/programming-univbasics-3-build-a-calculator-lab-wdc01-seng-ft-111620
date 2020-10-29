@@ -19,5 +19,5 @@ numbers = 34 % 5
 end
 
 def square_root(num)
- numbers = 81
+ numbers = sqrt(81)
 end
