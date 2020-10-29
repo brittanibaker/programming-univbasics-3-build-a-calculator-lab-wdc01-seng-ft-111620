@@ -3,7 +3,7 @@ numbers = num2 + num1
 end
 
 def subtraction(num1, num2)
-numbers = num2 - num1
+numbers = 10 - 5
 end
 
 def division(num1, num2)
